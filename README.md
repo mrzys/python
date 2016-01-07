@@ -1,2 +1,4 @@
-# A Simple Spider 
-This a simple demo of a python spider to crawl [lagou](http://www.lagou.com)
+# 一些学习python的代码 
+
+* 一个抓取[拉钩网](http://www.lagou.com)的爬虫
+*  ...
